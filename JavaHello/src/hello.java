@@ -23,7 +23,7 @@ public class hello {
 
         // Conditionals / IF ELSE / Condition
         if (isHome && num < 18) {
-            System.out.println("You are not an adult.");
+            System.out.println("You need your parents permission.");
             }
 
         if (name.equals("Broo2")) {
