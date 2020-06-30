@@ -9,7 +9,7 @@ public class hello {
         System.out.println("Hello World");
 
         // variables
-        int num = 5;
+        int num = 2;
         double doubley = 4.6;
         char fisrtInitial = 'B';
         String name = "Broo2";
